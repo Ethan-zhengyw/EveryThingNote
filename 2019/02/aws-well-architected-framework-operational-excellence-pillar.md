@@ -1,5 +1,5 @@
 # AWS架构完善五大支柱之卓越操作支柱
-![本文结构](https://upload-images.jianshu.io/upload_images/12276783-18e2f35ad12d86e9.png)
+![本文结构](https://github.com/Ethan-zhengyw/EveryThingNote/blob/master/2019/02/images/aws-well-architected-framework-operational-excellence-pillar.svg)
 
 ## 前言
 

@@ -1,4 +1,5 @@
-![本文结构](https://upload-images.jianshu.io/upload_images/12276783-18e2f35ad12d86e9.png)
+# AWS架构完善五大支柱之卓越操作支柱
+![本文结构](https://github.com/Ethan-zhengyw/EveryThingNote/blob/master/2019/02/images/aws-well-architected-framework-operational-excellence-pillar.svg)
 
 ## 前言
 
@@ -91,6 +92,7 @@ AWS能够帮助聚合操作活动，工作负载，或者基础设施的日志�
 
 **AWS卓越操作支柱与Google SRE**
 AWS卓越操作支柱中的设计原则和最佳实践与Google提出的SRE指导思想和最佳实践具有相似性：
+
 | AWS架构完善之卓越操作支柱 | Google SRE |
 | --- | --- |
 |运维人员需要理解业务和客户需求才能有效、高效支撑业务|制定针对用户的服务质量目标，并且努力去达到这个质量目标|

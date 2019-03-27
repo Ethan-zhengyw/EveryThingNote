@@ -64,7 +64,7 @@
 
 ########## 结尾降调
 
-########## Mine：大家好，我叫XXX，英文名是XXX，大家叫我Ethan就好
+########## Mine：大家好，我叫XXX，英文名XXX，大家叫我XXX就好
 
 ###### Give your credentials
 
@@ -763,10 +763,32 @@
 
 ########### AWS CloudTrail VS AWS Config
 
+## 如何证明能力
+
+### Define the SITUATION:
+
+#### When I started university, I joined the Bradford University Theatre Club (BUTC). I really enjoyed it and acted in several productions, as well as learning about directing and the technical side.
+
+### Identify the TASK:
+
+#### In my third year I decided I wanted to stand for the role of Treasurer. There were three of us standing and we each had to do a campaign and then give a speech before one of us would be voted in.
+
+### Describe the ACTION you took:
+
+#### To get the club’s opinion on the sort of things that they thought we should spend our money on - recruitment events, marketing, better equipment etc - I spoke to the other members of the club and sent a short questionnaire round. I then used the feedback I received to formulate my campaign and speech. I made posters communicating my position, and wrote a five minute speech explaining why I wanted the position and what I thought I could bring to the club.
+
+### Explain the RESULT:
+
+#### This preparation and my interactions with the other club members meant that I was in a strong position to represent their interests, and I was voted in with 65% of the ballot.
+
 ## 参考链接
 
 ### [bradford大学关于沟通与分享的简单资料](https://www.bradford.ac.uk/careers/develop-skills/communication/)
+
 ### [Martin Fowler介绍微服务的博文](https://martinfowler.com/articles/microservices.html)
+
 ### [Thoughtworks技术雷达](https://assets.thoughtworks.com/assets/technology-radar-vol-19-cn.pdf)
+
 ### [Microservices on AWS技术白皮书](https://d1.awsstatic-china.com/whitepapers/microservices-on-aws.pdf)
+
 ### [Netflix关于容错系统设计的博文](https://medium.com/netflix-techblog/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)

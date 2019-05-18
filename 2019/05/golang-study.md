@@ -1,5 +1,7 @@
 # Golang学习
 
+## exercise code repository: https://github.com/Ethan-zhengyw/golang-exercise-code
+
 ## 1.1 概览
 
 ### Go 语言项目
